@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(90deg, #0095ff 0%, #5196cf 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.tela{
+    background-color: firebrick;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgd(244, 248,6);
+}
