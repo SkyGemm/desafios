@@ -1,27 +1,9 @@
 .peq{
-    width: 50px;
-    height: 50px;
-
+    width: 100px;
+    height: 100px;
 }
 
 .main-image img{
-    width: 500px;
-    margin-top: 35px;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    max-width: 100%;
-    padding: 20px;
-
-}
-
-.main-image{
-    display: flex;
-    justify-content: center;
-
-}
-
-.thumbnails{
-    margin-top: 25px;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rbgd;
+    width: 300px;
+    height: 300px;
 }
